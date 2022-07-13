@@ -1,1 +1,1 @@
-# Secret_Friend
+# secret-friend.github.io
